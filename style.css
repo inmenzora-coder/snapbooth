@@ -1,0 +1,33 @@
+body {
+    background-color: #242121;
+    color: aliceblue;
+}
+
+form {
+    background-color: aliceblue;
+}
+
+label {
+    color: #242121;
+}
+
+.p-7 {
+    padding: 70px;
+}
+
+.red {
+    color: red;
+}
+
+.m-4 {
+    margin: 40px;
+}
+
+#home{
+    background-color: blueviolet;
+}
+
+#profile{
+    background-color: blanchedalmond;
+    color:#242121;
+}
